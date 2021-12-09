@@ -22,3 +22,7 @@ Tasks :
       Mobile : 
              * Mohammed Amine Elazzab : About ( 1 & 2 & 3 & 4)
              * Lagdimi Mehdi : Home / Menu ( 1 & 2 )
+
+
+    Chart graphique : Mohammed Amine Elazzab
+    Shema de passage : Mehdi Lagdimi
